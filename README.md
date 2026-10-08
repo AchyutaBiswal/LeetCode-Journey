@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0301-remove-invalid-parentheses) |
+| [0344-reverse-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
