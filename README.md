@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3525-find-x-value-of-array-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Segment Tree
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
