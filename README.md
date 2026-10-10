@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3525-find-x-value-of-array-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
