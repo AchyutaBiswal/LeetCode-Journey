@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
