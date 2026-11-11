@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Segment Tree
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
