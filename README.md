@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Trie
 |  |
 | ------- |
