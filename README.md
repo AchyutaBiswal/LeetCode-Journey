@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3934-smallest-unique-subarray](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AchyutaBiswal/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
